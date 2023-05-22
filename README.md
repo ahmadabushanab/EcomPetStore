@@ -1,8 +1,4 @@
 # EcomPetStore
-Some of test cases fro EcomPetStore you will find all the test cases in readme
-
-
-
 https://ecom-pet-store.myshopify.com/
 
 1- go to the website and search for cat , make sure all items that came back contains the word "cat"
