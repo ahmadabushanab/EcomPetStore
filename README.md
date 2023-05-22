@@ -1,5 +1,5 @@
 # EcomPetStore
-https://ecom-pet-store.myshopify.com/
+https://ecom-pet-store.myshopify.com/ 
 
 1- go to the website and search for cat , make sure all items that came back contains the word "cat"
 2- go to dog tab and select one item randomly , and make sure the size is randomly selected as well as the color 
